@@ -8,7 +8,7 @@ take a quick look at [these slides](https://github.com/Arsanuos/big-data-capesto
 * Clusterning using MLlib on spark.
 * Exploring chat data using neo4j.
 
-# Key findings
+# Key Findings
 * Some users clicks few clicks but buy more items so we should display expensive items to them.
 * Some users clicks more but without buying much items so display ads with more expensive click money will increase our revenue from ads.
 * Try to get the groups with no interaction archived in deep of our systems as the more interaction in group was the more we need it and vice versa.
